@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">codEntel</string>
+    <string name="codEntel">codEntel</string>
+    <string name="n_mero_detectado">Número detectado:</string>
+    <string name="copiar">Copiar</string>
+    <string name="llamar">Llamar</string>
+    <string name="reintentar">Reintentar</string>
+    <string name="coloca_el_c_digo_aqu">Coloca el código aquí</string>
+    <string name="sombra">---</string>
+    <string name="a">---</string>
+    <string name="flash">Flash</string>
+    <string name="mantenga_enfocado">Centre el PIN dentro del cuadro para continuar</string>
+    <string name="centre_el_pin_dentro_del_cuadro_para_continuar">Centre el PIN dentro del cuadro para continuar</string>
+</resources>

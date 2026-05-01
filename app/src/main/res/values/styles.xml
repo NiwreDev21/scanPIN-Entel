@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.ModernTitle" parent="TextAppearance.Material3.HeadlineMedium">
+        <item name="android:fontFamily">@font/poppins_bold</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">29sp</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
+    <style name="TextAppearance.Material3.HeadlineMedium.Bold" parent="TextAppearance.Material3.HeadlineMedium">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:letterSpacing">0.03</item>
+    </style>
+
+</resources>
