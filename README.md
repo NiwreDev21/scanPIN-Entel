@@ -25,9 +25,7 @@ Aplicación móvil desarrollada en Flutter para escanear y detectar códigos PIN
 
 ## 📸 Capturas
 
-| Inicio |
-|---|
-| ![](./assets/project3.jpeg) | 
+![](./assets/project3.jpeg)
 ---
 
 ## ⚙️ Instalación
